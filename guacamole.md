@@ -1,11 +1,12 @@
 Ingredients:
 - 2 avocados
+- 2 Tbls. chopped red onion
 - 1 lime
 - 2 tsp salt
 
 instructions
 - cut and mash avocados
-- chop onion
+- and onion
 - squeeze lime
 - add salt
 - amd mix well
